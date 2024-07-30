@@ -26,7 +26,7 @@ The application consists of:
 
 ## This is a screenshot of the GUI todolist
 
-![Output for the above calculator code](https://github.com/BethiAarthi/java_calculator/blob/main/calculator.png?raw=true)
+![Output for the above calculator code](https://github.com/BethiAarthi/todolist/blob/main/todo.png?raw=true)
 
 ## How to Run
 
