@@ -30,4 +30,4 @@ The application consists of:
 
    If you have the code in a repository, you can clone it using:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BethiAarthi/todolist)
