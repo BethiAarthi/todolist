@@ -24,6 +24,10 @@ The application consists of:
 4. **Clear All Tasks Button**: Clears all tasks from the list.
 5. **Task Listbox**: Displays the list of tasks.
 
+## This is a screenshot of the GUI todolist
+
+![Output for the above calculator code](https://github.com/BethiAarthi/java_calculator/blob/main/calculator.png?raw=true)
+
 ## How to Run
 
 1. **Clone the Repository**
@@ -31,3 +35,6 @@ The application consists of:
    If you have the code in a repository, you can clone it using:
    ```bash
    git clone https://github.com/BethiAarthi/todolist)
+
+
+   
