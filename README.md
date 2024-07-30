@@ -42,8 +42,3 @@ The application consists of:
 3. **Navigate to the Project Directory**
      ```bash
    python todo.py
-
-
-
-
-   
