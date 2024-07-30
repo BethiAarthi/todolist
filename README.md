@@ -36,5 +36,14 @@ The application consists of:
    ```bash
    git clone https://github.com/BethiAarthi/todolist)
 
+2. **Navigate to the Project Directory**
+      ```bash
+   cd todolist
+3. **Navigate to the Project Directory**
+     ```bash
+   python todo.py
+
+
+
 
    
