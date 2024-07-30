@@ -1,6 +1,7 @@
 # Simple To-Do List Application
+Here's a rephrased version of the description:
 
-This is a simple To-Do List application built using Python and Tkinter. It allows users to add, delete, and clear tasks from a list. This to-do list can be used for tracking the things you need to do in your daily life.
+This is a basic To-Do List application created with Python and Tkinter. It enables users to add, remove, and clear tasks from a list. This to-do list is a useful tool for managing and tracking daily tasks and activities.
 
 ## Features
 
